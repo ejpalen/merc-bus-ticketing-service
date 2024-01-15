@@ -1,0 +1,666 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+Updated Merc Bus
+</name>
+</assembly>
+<members>
+<member name="T:Updated_Merc_Bus.My.Resources.Resources">
+<summary>
+  A strongly-typed resource class, for looking up localized strings, etc.
+</summary>
+</member>
+<member name="P:Updated_Merc_Bus.My.Resources.Resources.ResourceManager">
+<summary>
+  Returns the cached ResourceManager instance used by this class.
+</summary>
+</member>
+<member name="P:Updated_Merc_Bus.My.Resources.Resources.Culture">
+<summary>
+  Overrides the current thread's CurrentUICulture property for all
+  resource lookups using this strongly typed resource class.
+</summary>
+</member>
+<member name="P:Updated_Merc_Bus.My.Resources.Resources._6793684604_520e013278_o">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Updated_Merc_Bus.My.Resources.Resources._as">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Updated_Merc_Bus.My.Resources.Resources.abouticon1">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Updated_Merc_Bus.My.Resources.Resources.abouticon11">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Updated_Merc_Bus.My.Resources.Resources.b1">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Updated_Merc_Bus.My.Resources.Resources.b2">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Updated_Merc_Bus.My.Resources.Resources.b3">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Updated_Merc_Bus.My.Resources.Resources.below1">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Updated_Merc_Bus.My.Resources.Resources.below11">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Updated_Merc_Bus.My.Resources.Resources.blue_about">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Updated_Merc_Bus.My.Resources.Resources.blue_about1">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Updated_Merc_Bus.My.Resources.Resources.blue_home">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Updated_Merc_Bus.My.Resources.Resources.blue_ticket">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Updated_Merc_Bus.My.Resources.Resources.bluearrow">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Updated_Merc_Bus.My.Resources.Resources.bluedownarrow">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Updated_Merc_Bus.My.Resources.Resources.bluedownarrow1">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Updated_Merc_Bus.My.Resources.Resources.blueleftarrow">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Updated_Merc_Bus.My.Resources.Resources.blueprofile">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Updated_Merc_Bus.My.Resources.Resources.blueservice">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Updated_Merc_Bus.My.Resources.Resources.btnnextpassenger">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Updated_Merc_Bus.My.Resources.Resources.BUS">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Updated_Merc_Bus.My.Resources.Resources.buslogo">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Updated_Merc_Bus.My.Resources.Resources.changeicon">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Updated_Merc_Bus.My.Resources.Resources.classa">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Updated_Merc_Bus.My.Resources.Resources.classa1">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Updated_Merc_Bus.My.Resources.Resources.classa3">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Updated_Merc_Bus.My.Resources.Resources.classb">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Updated_Merc_Bus.My.Resources.Resources.classb1">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Updated_Merc_Bus.My.Resources.Resources.classc">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Updated_Merc_Bus.My.Resources.Resources.classc1">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Updated_Merc_Bus.My.Resources.Resources.classc2">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Updated_Merc_Bus.My.Resources.Resources.download__1__removebg_preview__1_">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Updated_Merc_Bus.My.Resources.Resources.dsd">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Updated_Merc_Bus.My.Resources.Resources.exiticon">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Updated_Merc_Bus.My.Resources.Resources.grayabout">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Updated_Merc_Bus.My.Resources.Resources.graydown">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Updated_Merc_Bus.My.Resources.Resources.graydown1">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Updated_Merc_Bus.My.Resources.Resources.graydown2">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Updated_Merc_Bus.My.Resources.Resources.grayhome">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Updated_Merc_Bus.My.Resources.Resources.graymenu">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Updated_Merc_Bus.My.Resources.Resources.heading1">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Updated_Merc_Bus.My.Resources.Resources.homeicon">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Updated_Merc_Bus.My.Resources.Resources.image">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Updated_Merc_Bus.My.Resources.Resources.latestbreakdown">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Updated_Merc_Bus.My.Resources.Resources.lock">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Updated_Merc_Bus.My.Resources.Resources.merclabellogo">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Updated_Merc_Bus.My.Resources.Resources.newarrowdownmenu">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Updated_Merc_Bus.My.Resources.Resources.newarrowdownmenublue">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Updated_Merc_Bus.My.Resources.Resources.newarrowupmenublue">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Updated_Merc_Bus.My.Resources.Resources.newbtnaboutblue">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Updated_Merc_Bus.My.Resources.Resources.newbtnaboutwhite">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Updated_Merc_Bus.My.Resources.Resources.newbtnaboutwhite1">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Updated_Merc_Bus.My.Resources.Resources.newbtnaboutwhite2">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Updated_Merc_Bus.My.Resources.Resources.newclassa">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Updated_Merc_Bus.My.Resources.Resources.newclassb">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Updated_Merc_Bus.My.Resources.Resources.newexit">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Updated_Merc_Bus.My.Resources.Resources.newgrayabout">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Updated_Merc_Bus.My.Resources.Resources.newordinary">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Updated_Merc_Bus.My.Resources.Resources.newprint">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Updated_Merc_Bus.My.Resources.Resources.newr1">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Updated_Merc_Bus.My.Resources.Resources.newr11">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Updated_Merc_Bus.My.Resources.Resources.newr12">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Updated_Merc_Bus.My.Resources.Resources.newr2">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Updated_Merc_Bus.My.Resources.Resources.newretry">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Updated_Merc_Bus.My.Resources.Resources.newretry1">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Updated_Merc_Bus.My.Resources.Resources.newtotalbreakdownd">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Updated_Merc_Bus.My.Resources.Resources.nextarrowicon">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Updated_Merc_Bus.My.Resources.Resources.nextarrowicon1">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Updated_Merc_Bus.My.Resources.Resources.orangeabout">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Updated_Merc_Bus.My.Resources.Resources.orangearrowdown">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Updated_Merc_Bus.My.Resources.Resources.orangearrowicon">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Updated_Merc_Bus.My.Resources.Resources.orangearrowup">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Updated_Merc_Bus.My.Resources.Resources.orangearrowup__1___1_">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Updated_Merc_Bus.My.Resources.Resources.orangearrowup__1___1_1">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Updated_Merc_Bus.My.Resources.Resources.orangearrowup__1___1_2">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Updated_Merc_Bus.My.Resources.Resources.orangearrowup__1___2_">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Updated_Merc_Bus.My.Resources.Resources.orangearrowup__1___3_">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Updated_Merc_Bus.My.Resources.Resources.orangearrowup__1___4_">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Updated_Merc_Bus.My.Resources.Resources.orangedown">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Updated_Merc_Bus.My.Resources.Resources.orangehome">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Updated_Merc_Bus.My.Resources.Resources.orangeticket">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Updated_Merc_Bus.My.Resources.Resources.orangeup">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Updated_Merc_Bus.My.Resources.Resources.ordinary">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Updated_Merc_Bus.My.Resources.Resources.ordinary_3png">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Updated_Merc_Bus.My.Resources.Resources.ordinary1">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Updated_Merc_Bus.My.Resources.Resources.ordinary2">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Updated_Merc_Bus.My.Resources.Resources.output_onlinepngtools">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Updated_Merc_Bus.My.Resources.Resources.output_onlinepngtools__1_">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Updated_Merc_Bus.My.Resources.Resources.output_onlinepngtools__10_">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Updated_Merc_Bus.My.Resources.Resources.output_onlinepngtools__13_">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Updated_Merc_Bus.My.Resources.Resources.output_onlinepngtools__13_1">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Updated_Merc_Bus.My.Resources.Resources.output_onlinepngtools__14_">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Updated_Merc_Bus.My.Resources.Resources.output_onlinepngtools__15_">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Updated_Merc_Bus.My.Resources.Resources.output_onlinepngtools__16_">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Updated_Merc_Bus.My.Resources.Resources.output_onlinepngtools__16_1">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Updated_Merc_Bus.My.Resources.Resources.output_onlinepngtools__2_">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Updated_Merc_Bus.My.Resources.Resources.output_onlinepngtools__20_">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Updated_Merc_Bus.My.Resources.Resources.output_onlinepngtools__4_">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Updated_Merc_Bus.My.Resources.Resources.output_onlinepngtools__5_">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Updated_Merc_Bus.My.Resources.Resources.output_onlinepngtools__5_1">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Updated_Merc_Bus.My.Resources.Resources.output_onlinepngtools__6_">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Updated_Merc_Bus.My.Resources.Resources.output_onlinepngtools__7_">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Updated_Merc_Bus.My.Resources.Resources.output_onlinepngtools__8_">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Updated_Merc_Bus.My.Resources.Resources.output_onlinepngtools1">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Updated_Merc_Bus.My.Resources.Resources.password">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Updated_Merc_Bus.My.Resources.Resources.piclogin">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Updated_Merc_Bus.My.Resources.Resources.pricetable">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Updated_Merc_Bus.My.Resources.Resources.pricetable1">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Updated_Merc_Bus.My.Resources.Resources.pricetable2">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Updated_Merc_Bus.My.Resources.Resources.printicon">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Updated_Merc_Bus.My.Resources.Resources.profileicon">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Updated_Merc_Bus.My.Resources.Resources.red_ticket">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Updated_Merc_Bus.My.Resources.Resources.retry">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Updated_Merc_Bus.My.Resources.Resources.Slide1">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Updated_Merc_Bus.My.Resources.Resources.text">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Updated_Merc_Bus.My.Resources.Resources.totalbreakdownd">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Updated_Merc_Bus.My.Resources.Resources.Untitled_design">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Updated_Merc_Bus.My.Resources.Resources.uparrow">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Updated_Merc_Bus.My.Resources.Resources.uparrow1">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Updated_Merc_Bus.My.Resources.Resources.updatedorangedown_removebg_preview__2_">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Updated_Merc_Bus.My.Resources.Resources.vvdv">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Updated_Merc_Bus.My.Resources.Resources.whitebuslogo">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Updated_Merc_Bus.My.Resources.Resources.whitecustomer">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Updated_Merc_Bus.My.Resources.Resources.whitedownarrow">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Updated_Merc_Bus.My.Resources.Resources.whiteprofile">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Updated_Merc_Bus.My.Resources.Resources.whiteservice">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Updated_Merc_Bus.My.Resources.Resources.whiteservicec">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Updated_Merc_Bus.My.Resources.Resources.whiteuparrow">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+</members>
+</doc>

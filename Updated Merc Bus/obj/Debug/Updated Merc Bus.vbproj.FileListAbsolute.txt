@@ -1,0 +1,326 @@
+C:\Users\SAMSUNG\source\repos\Updated Merc Bus\Updated Merc Bus\bin\Debug\Updated Merc Bus.exe.config
+C:\Users\SAMSUNG\source\repos\Updated Merc Bus\Updated Merc Bus\bin\Debug\Updated Merc Bus.exe
+C:\Users\SAMSUNG\source\repos\Updated Merc Bus\Updated Merc Bus\bin\Debug\Updated Merc Bus.pdb
+C:\Users\SAMSUNG\source\repos\Updated Merc Bus\Updated Merc Bus\bin\Debug\Updated Merc Bus.xml
+C:\Users\SAMSUNG\source\repos\Updated Merc Bus\Updated Merc Bus\obj\Debug\Updated Merc Bus.vbprojAssemblyReference.cache
+C:\Users\SAMSUNG\source\repos\Updated Merc Bus\Updated Merc Bus\obj\Debug\Updated_Merc_Bus.Form1.resources
+C:\Users\SAMSUNG\source\repos\Updated Merc Bus\Updated Merc Bus\obj\Debug\Updated_Merc_Bus.Resources.resources
+C:\Users\SAMSUNG\source\repos\Updated Merc Bus\Updated Merc Bus\obj\Debug\Updated Merc Bus.vbproj.GenerateResource.cache
+C:\Users\SAMSUNG\source\repos\Updated Merc Bus\Updated Merc Bus\obj\Debug\Updated Merc Bus.vbproj.CoreCompileInputs.cache
+C:\Users\SAMSUNG\source\repos\Updated Merc Bus\Updated Merc Bus\obj\Debug\Updated Merc Bus.exe
+C:\Users\SAMSUNG\source\repos\Updated Merc Bus\Updated Merc Bus\obj\Debug\Updated Merc Bus.xml
+C:\Users\SAMSUNG\source\repos\Updated Merc Bus\Updated Merc Bus\obj\Debug\Updated Merc Bus.pdb
+C:\Users\SAMSUNG\source\repos\Updated Merc Bus\Updated Merc Bus\bin\Debug\Bunifu_UI_v1.52.dll
+C:\Users\SAMSUNG\source\repos\Updated Merc Bus\Updated Merc Bus\obj\Debug\Updated Merc Bus.vbproj.CopyComplete
+C:\Users\SAMSUNG\source\repos\Pinkaupdated na Merc Bus\Updated Merc Bus\bin\Debug\Updated Merc Bus.exe.config
+C:\Users\SAMSUNG\source\repos\Pinkaupdated na Merc Bus\Updated Merc Bus\bin\Debug\Updated Merc Bus.exe
+C:\Users\SAMSUNG\source\repos\Pinkaupdated na Merc Bus\Updated Merc Bus\bin\Debug\Updated Merc Bus.pdb
+C:\Users\SAMSUNG\source\repos\Pinkaupdated na Merc Bus\Updated Merc Bus\bin\Debug\Updated Merc Bus.xml
+C:\Users\SAMSUNG\source\repos\Pinkaupdated na Merc Bus\Updated Merc Bus\bin\Debug\Bunifu_UI_v1.52.dll
+C:\Users\SAMSUNG\source\repos\Pinkaupdated na Merc Bus\Updated Merc Bus\obj\Debug\Updated Merc Bus.vbprojAssemblyReference.cache
+C:\Users\SAMSUNG\source\repos\Pinkaupdated na Merc Bus\Updated Merc Bus\obj\Debug\Updated_Merc_Bus.Form1.resources
+C:\Users\SAMSUNG\source\repos\Pinkaupdated na Merc Bus\Updated Merc Bus\obj\Debug\Updated_Merc_Bus.Resources.resources
+C:\Users\SAMSUNG\source\repos\Pinkaupdated na Merc Bus\Updated Merc Bus\obj\Debug\Updated Merc Bus.vbproj.GenerateResource.cache
+C:\Users\SAMSUNG\source\repos\Pinkaupdated na Merc Bus\Updated Merc Bus\obj\Debug\Updated Merc Bus.vbproj.CoreCompileInputs.cache
+C:\Users\SAMSUNG\source\repos\Pinkaupdated na Merc Bus\Updated Merc Bus\obj\Debug\Updated Merc Bus.vbproj.CopyComplete
+C:\Users\SAMSUNG\source\repos\Pinkaupdated na Merc Bus\Updated Merc Bus\obj\Debug\Updated Merc Bus.exe
+C:\Users\SAMSUNG\source\repos\Pinkaupdated na Merc Bus\Updated Merc Bus\obj\Debug\Updated Merc Bus.xml
+C:\Users\SAMSUNG\source\repos\Pinkaupdated na Merc Bus\Updated Merc Bus\obj\Debug\Updated Merc Bus.pdb
+C:\Users\SAMSUNG\source\repos\Pinkaupdated na Merc Bus\Updated Merc Bus\obj\Debug\Updated_Merc_Bus.Log_in_form.resources
+C:\Users\SAMSUNG\source\repos\Pinkaupdated na Merc Bus - Copy as of May 9 legit\Updated Merc Bus\bin\Debug\Updated Merc Bus.exe.config
+C:\Users\SAMSUNG\source\repos\Pinkaupdated na Merc Bus - Copy as of May 9 legit\Updated Merc Bus\bin\Debug\Updated Merc Bus.exe
+C:\Users\SAMSUNG\source\repos\Pinkaupdated na Merc Bus - Copy as of May 9 legit\Updated Merc Bus\bin\Debug\Updated Merc Bus.pdb
+C:\Users\SAMSUNG\source\repos\Pinkaupdated na Merc Bus - Copy as of May 9 legit\Updated Merc Bus\bin\Debug\Updated Merc Bus.xml
+C:\Users\SAMSUNG\source\repos\Pinkaupdated na Merc Bus - Copy as of May 9 legit\Updated Merc Bus\bin\Debug\Bunifu_UI_v1.52.dll
+C:\Users\SAMSUNG\source\repos\Pinkaupdated na Merc Bus - Copy as of May 9 legit\Updated Merc Bus\obj\Debug\Updated Merc Bus.vbprojAssemblyReference.cache
+C:\Users\SAMSUNG\source\repos\Pinkaupdated na Merc Bus - Copy as of May 9 legit\Updated Merc Bus\obj\Debug\Updated_Merc_Bus.Form1.resources
+C:\Users\SAMSUNG\source\repos\Pinkaupdated na Merc Bus - Copy as of May 9 legit\Updated Merc Bus\obj\Debug\Updated_Merc_Bus.Log_in_form.resources
+C:\Users\SAMSUNG\source\repos\Pinkaupdated na Merc Bus - Copy as of May 9 legit\Updated Merc Bus\obj\Debug\Updated_Merc_Bus.Resources.resources
+C:\Users\SAMSUNG\source\repos\Pinkaupdated na Merc Bus - Copy as of May 9 legit\Updated Merc Bus\obj\Debug\Updated Merc Bus.vbproj.GenerateResource.cache
+C:\Users\SAMSUNG\source\repos\Pinkaupdated na Merc Bus - Copy as of May 9 legit\Updated Merc Bus\obj\Debug\Updated Merc Bus.vbproj.CoreCompileInputs.cache
+C:\Users\SAMSUNG\source\repos\Pinkaupdated na Merc Bus - Copy as of May 9 legit\Updated Merc Bus\obj\Debug\Updated Merc Bus.vbproj.CopyComplete
+C:\Users\SAMSUNG\source\repos\Pinkaupdated na Merc Bus - Copy as of May 9 legit\Updated Merc Bus\obj\Debug\Updated Merc Bus.exe
+C:\Users\SAMSUNG\source\repos\Pinkaupdated na Merc Bus - Copy as of May 9 legit\Updated Merc Bus\obj\Debug\Updated Merc Bus.xml
+C:\Users\SAMSUNG\source\repos\Pinkaupdated na Merc Bus - Copy as of May 9 legit\Updated Merc Bus\obj\Debug\Updated Merc Bus.pdb
+C:\Users\Edward Salonga\Desktop\School\Proj CPG\Pinkaupdated na Merc Bus - Copy as of May 9 legit\Updated Merc Bus\obj\Debug\Updated Merc Bus.vbprojAssemblyReference.cache
+C:\Users\Edward Salonga\Desktop\School\Proj CPG\Pinkaupdated na Merc Bus - Copy as of May 9 legit\Updated Merc Bus\obj\Debug\Updated_Merc_Bus.Form1.resources
+C:\Users\Edward Salonga\Desktop\School\Proj CPG\Pinkaupdated na Merc Bus - Copy as of May 9 legit\Updated Merc Bus\obj\Debug\Updated_Merc_Bus.Log_in_form.resources
+C:\Users\Edward Salonga\Desktop\School\Proj CPG\Pinkaupdated na Merc Bus - Copy as of May 9 legit\Updated Merc Bus\obj\Debug\Updated_Merc_Bus.Resources.resources
+C:\Users\Edward Salonga\Desktop\School\Proj CPG\Pinkaupdated na Merc Bus - Copy as of May 9 legit\Updated Merc Bus\obj\Debug\Updated Merc Bus.vbproj.GenerateResource.cache
+C:\Users\Edward Salonga\Desktop\School\Proj CPG\Pinkaupdated na Merc Bus - Copy as of May 9 legit\Updated Merc Bus\obj\Debug\Updated Merc Bus.vbproj.CoreCompileInputs.cache
+C:\Users\Edward Salonga\Desktop\School\Proj CPG\Pinkaupdated na Merc Bus - Copy as of May 9 legit\Updated Merc Bus\obj\Debug\Updated Merc Bus.exe
+C:\Users\Edward Salonga\Desktop\School\Proj CPG\Pinkaupdated na Merc Bus - Copy as of May 9 legit\Updated Merc Bus\obj\Debug\Updated Merc Bus.xml
+C:\Users\Edward Salonga\Desktop\School\Proj CPG\Pinkaupdated na Merc Bus - Copy as of May 9 legit\Updated Merc Bus\obj\Debug\Updated Merc Bus.pdb
+C:\Users\Edward Salonga\Desktop\School\Proj CPG\Pinkaupdated na Merc Bus - Copy as of May 9 legit\Updated Merc Bus\bin\Debug\Updated Merc Bus.exe.config
+C:\Users\Edward Salonga\Desktop\School\Proj CPG\Pinkaupdated na Merc Bus - Copy as of May 9 legit\Updated Merc Bus\bin\Debug\Updated Merc Bus.exe
+C:\Users\Edward Salonga\Desktop\School\Proj CPG\Pinkaupdated na Merc Bus - Copy as of May 9 legit\Updated Merc Bus\bin\Debug\Updated Merc Bus.pdb
+C:\Users\Edward Salonga\Desktop\School\Proj CPG\Pinkaupdated na Merc Bus - Copy as of May 9 legit\Updated Merc Bus\bin\Debug\Updated Merc Bus.xml
+C:\Users\Edward Salonga\Desktop\School\Proj CPG\Pinkaupdated na Merc Bus - Copy as of May 9 legit\Updated Merc Bus\obj\Debug\Updated Merc Bus.vbproj.CopyComplete
+C:\Users\frederick\Downloads\Pinkaupdated na Merc Bus - Copy as of May 9 legit\Updated Merc Bus\bin\Debug\Updated Merc Bus.exe.config
+C:\Users\frederick\Downloads\Pinkaupdated na Merc Bus - Copy as of May 9 legit\Updated Merc Bus\bin\Debug\Updated Merc Bus.exe
+C:\Users\frederick\Downloads\Pinkaupdated na Merc Bus - Copy as of May 9 legit\Updated Merc Bus\bin\Debug\Updated Merc Bus.pdb
+C:\Users\frederick\Downloads\Pinkaupdated na Merc Bus - Copy as of May 9 legit\Updated Merc Bus\bin\Debug\Updated Merc Bus.xml
+C:\Users\frederick\Downloads\Pinkaupdated na Merc Bus - Copy as of May 9 legit\Updated Merc Bus\obj\Debug\Updated Merc Bus.vbprojAssemblyReference.cache
+C:\Users\frederick\Downloads\Pinkaupdated na Merc Bus - Copy as of May 9 legit\Updated Merc Bus\obj\Debug\Updated_Merc_Bus.Form1.resources
+C:\Users\frederick\Downloads\Pinkaupdated na Merc Bus - Copy as of May 9 legit\Updated Merc Bus\obj\Debug\Updated_Merc_Bus.Log_in_form.resources
+C:\Users\frederick\Downloads\Pinkaupdated na Merc Bus - Copy as of May 9 legit\Updated Merc Bus\obj\Debug\Updated_Merc_Bus.Resources.resources
+C:\Users\frederick\Downloads\Pinkaupdated na Merc Bus - Copy as of May 9 legit\Updated Merc Bus\obj\Debug\Updated Merc Bus.vbproj.GenerateResource.cache
+C:\Users\frederick\Downloads\Pinkaupdated na Merc Bus - Copy as of May 9 legit\Updated Merc Bus\obj\Debug\Updated Merc Bus.vbproj.CoreCompileInputs.cache
+C:\Users\frederick\Downloads\Pinkaupdated na Merc Bus - Copy as of May 9 legit\Updated Merc Bus\obj\Debug\Updated Merc Bus.vbproj.CopyComplete
+C:\Users\frederick\Downloads\Pinkaupdated na Merc Bus - Copy as of May 9 legit\Updated Merc Bus\obj\Debug\Updated Merc Bus.exe
+C:\Users\frederick\Downloads\Pinkaupdated na Merc Bus - Copy as of May 9 legit\Updated Merc Bus\obj\Debug\Updated Merc Bus.xml
+C:\Users\frederick\Downloads\Pinkaupdated na Merc Bus - Copy as of May 9 legit\Updated Merc Bus\obj\Debug\Updated Merc Bus.pdb
+C:\Users\SAMSUNG\Downloads\Updated_ merc bus na dinagdagan ni jems ng shit, but mostly calculations lang\Pinkaupdated na Merc Bus - Copy as of May 28(JEMS edit)\Updated Merc Bus\bin\Debug\Updated Merc Bus.exe.config
+C:\Users\SAMSUNG\Downloads\Updated_ merc bus na dinagdagan ni jems ng shit, but mostly calculations lang\Pinkaupdated na Merc Bus - Copy as of May 28(JEMS edit)\Updated Merc Bus\bin\Debug\Updated Merc Bus.exe
+C:\Users\SAMSUNG\Downloads\Updated_ merc bus na dinagdagan ni jems ng shit, but mostly calculations lang\Pinkaupdated na Merc Bus - Copy as of May 28(JEMS edit)\Updated Merc Bus\bin\Debug\Updated Merc Bus.pdb
+C:\Users\SAMSUNG\Downloads\Updated_ merc bus na dinagdagan ni jems ng shit, but mostly calculations lang\Pinkaupdated na Merc Bus - Copy as of May 28(JEMS edit)\Updated Merc Bus\bin\Debug\Updated Merc Bus.xml
+C:\Users\SAMSUNG\Downloads\Updated_ merc bus na dinagdagan ni jems ng shit, but mostly calculations lang\Pinkaupdated na Merc Bus - Copy as of May 28(JEMS edit)\Updated Merc Bus\bin\Debug\Bunifu_UI_v1.52.dll
+C:\Users\SAMSUNG\Downloads\Updated_ merc bus na dinagdagan ni jems ng shit, but mostly calculations lang\Pinkaupdated na Merc Bus - Copy as of May 28(JEMS edit)\Updated Merc Bus\obj\Debug\Updated Merc Bus.vbprojAssemblyReference.cache
+C:\Users\SAMSUNG\Downloads\Updated_ merc bus na dinagdagan ni jems ng shit, but mostly calculations lang\Pinkaupdated na Merc Bus - Copy as of May 28(JEMS edit)\Updated Merc Bus\obj\Debug\Updated_Merc_Bus.Form1.resources
+C:\Users\SAMSUNG\Downloads\Updated_ merc bus na dinagdagan ni jems ng shit, but mostly calculations lang\Pinkaupdated na Merc Bus - Copy as of May 28(JEMS edit)\Updated Merc Bus\obj\Debug\Updated_Merc_Bus.Log_in_form.resources
+C:\Users\SAMSUNG\Downloads\Updated_ merc bus na dinagdagan ni jems ng shit, but mostly calculations lang\Pinkaupdated na Merc Bus - Copy as of May 28(JEMS edit)\Updated Merc Bus\obj\Debug\Updated_Merc_Bus.Resources.resources
+C:\Users\SAMSUNG\Downloads\Updated_ merc bus na dinagdagan ni jems ng shit, but mostly calculations lang\Pinkaupdated na Merc Bus - Copy as of May 28(JEMS edit)\Updated Merc Bus\obj\Debug\Updated Merc Bus.vbproj.GenerateResource.cache
+C:\Users\SAMSUNG\Downloads\Updated_ merc bus na dinagdagan ni jems ng shit, but mostly calculations lang\Pinkaupdated na Merc Bus - Copy as of May 28(JEMS edit)\Updated Merc Bus\obj\Debug\Updated Merc Bus.vbproj.CoreCompileInputs.cache
+C:\Users\SAMSUNG\Downloads\Updated_ merc bus na dinagdagan ni jems ng shit, but mostly calculations lang\Pinkaupdated na Merc Bus - Copy as of May 28(JEMS edit)\Updated Merc Bus\obj\Debug\Updated Merc Bus.vbproj.CopyComplete
+C:\Users\SAMSUNG\Downloads\Updated_ merc bus na dinagdagan ni jems ng shit, but mostly calculations lang\Pinkaupdated na Merc Bus - Copy as of May 28(JEMS edit)\Updated Merc Bus\obj\Debug\Updated Merc Bus.exe
+C:\Users\SAMSUNG\Downloads\Updated_ merc bus na dinagdagan ni jems ng shit, but mostly calculations lang\Pinkaupdated na Merc Bus - Copy as of May 28(JEMS edit)\Updated Merc Bus\obj\Debug\Updated Merc Bus.xml
+C:\Users\SAMSUNG\Downloads\Updated_ merc bus na dinagdagan ni jems ng shit, but mostly calculations lang\Pinkaupdated na Merc Bus - Copy as of May 28(JEMS edit)\Updated Merc Bus\obj\Debug\Updated Merc Bus.pdb
+C:\Users\Edward Salonga\Desktop\latestttt Ejjjj meowkk\Updated_ merc bus na dinagdagan ni jems ng shit, but mostly calculations lang\Updated Merc Bus\Updated Merc Bus\bin\Debug\Updated Merc Bus.exe.config
+C:\Users\Edward Salonga\Desktop\latestttt Ejjjj meowkk\Updated_ merc bus na dinagdagan ni jems ng shit, but mostly calculations lang\Updated Merc Bus\Updated Merc Bus\bin\Debug\Updated Merc Bus.exe
+C:\Users\Edward Salonga\Desktop\latestttt Ejjjj meowkk\Updated_ merc bus na dinagdagan ni jems ng shit, but mostly calculations lang\Updated Merc Bus\Updated Merc Bus\bin\Debug\Updated Merc Bus.pdb
+C:\Users\Edward Salonga\Desktop\latestttt Ejjjj meowkk\Updated_ merc bus na dinagdagan ni jems ng shit, but mostly calculations lang\Updated Merc Bus\Updated Merc Bus\bin\Debug\Updated Merc Bus.xml
+C:\Users\Edward Salonga\Desktop\latestttt Ejjjj meowkk\Updated_ merc bus na dinagdagan ni jems ng shit, but mostly calculations lang\Updated Merc Bus\Updated Merc Bus\obj\Debug\Updated Merc Bus.vbprojAssemblyReference.cache
+C:\Users\Edward Salonga\Desktop\latestttt Ejjjj meowkk\Updated_ merc bus na dinagdagan ni jems ng shit, but mostly calculations lang\Updated Merc Bus\Updated Merc Bus\obj\Debug\Updated_Merc_Bus.Form1.resources
+C:\Users\Edward Salonga\Desktop\latestttt Ejjjj meowkk\Updated_ merc bus na dinagdagan ni jems ng shit, but mostly calculations lang\Updated Merc Bus\Updated Merc Bus\obj\Debug\Updated_Merc_Bus.Log_in_form.resources
+C:\Users\Edward Salonga\Desktop\latestttt Ejjjj meowkk\Updated_ merc bus na dinagdagan ni jems ng shit, but mostly calculations lang\Updated Merc Bus\Updated Merc Bus\obj\Debug\Updated_Merc_Bus.Resources.resources
+C:\Users\Edward Salonga\Desktop\latestttt Ejjjj meowkk\Updated_ merc bus na dinagdagan ni jems ng shit, but mostly calculations lang\Updated Merc Bus\Updated Merc Bus\obj\Debug\Updated Merc Bus.vbproj.GenerateResource.cache
+C:\Users\Edward Salonga\Desktop\latestttt Ejjjj meowkk\Updated_ merc bus na dinagdagan ni jems ng shit, but mostly calculations lang\Updated Merc Bus\Updated Merc Bus\obj\Debug\Updated Merc Bus.vbproj.CoreCompileInputs.cache
+C:\Users\Edward Salonga\Desktop\latestttt Ejjjj meowkk\Updated_ merc bus na dinagdagan ni jems ng shit, but mostly calculations lang\Updated Merc Bus\Updated Merc Bus\obj\Debug\Updated Merc Bus.vbproj.CopyComplete
+C:\Users\Edward Salonga\Desktop\latestttt Ejjjj meowkk\Updated_ merc bus na dinagdagan ni jems ng shit, but mostly calculations lang\Updated Merc Bus\Updated Merc Bus\obj\Debug\Updated Merc Bus.exe
+C:\Users\Edward Salonga\Desktop\latestttt Ejjjj meowkk\Updated_ merc bus na dinagdagan ni jems ng shit, but mostly calculations lang\Updated Merc Bus\Updated Merc Bus\obj\Debug\Updated Merc Bus.xml
+C:\Users\Edward Salonga\Desktop\latestttt Ejjjj meowkk\Updated_ merc bus na dinagdagan ni jems ng shit, but mostly calculations lang\Updated Merc Bus\Updated Merc Bus\obj\Debug\Updated Merc Bus.pdb
+C:\Users\Edward Salonga\Desktop\o\Updated_ merc bus na dinagdagan ni jems ng shit, but mostly calculations lang\Updated Merc Bus\Updated Merc Bus\bin\Debug\Updated Merc Bus.exe.config
+C:\Users\Edward Salonga\Desktop\o\Updated_ merc bus na dinagdagan ni jems ng shit, but mostly calculations lang\Updated Merc Bus\Updated Merc Bus\bin\Debug\Updated Merc Bus.exe
+C:\Users\Edward Salonga\Desktop\o\Updated_ merc bus na dinagdagan ni jems ng shit, but mostly calculations lang\Updated Merc Bus\Updated Merc Bus\bin\Debug\Updated Merc Bus.pdb
+C:\Users\Edward Salonga\Desktop\o\Updated_ merc bus na dinagdagan ni jems ng shit, but mostly calculations lang\Updated Merc Bus\Updated Merc Bus\bin\Debug\Updated Merc Bus.xml
+C:\Users\Edward Salonga\Desktop\o\Updated_ merc bus na dinagdagan ni jems ng shit, but mostly calculations lang\Updated Merc Bus\Updated Merc Bus\obj\Debug\Updated Merc Bus.vbprojAssemblyReference.cache
+C:\Users\Edward Salonga\Desktop\o\Updated_ merc bus na dinagdagan ni jems ng shit, but mostly calculations lang\Updated Merc Bus\Updated Merc Bus\obj\Debug\Updated_Merc_Bus.Form1.resources
+C:\Users\Edward Salonga\Desktop\o\Updated_ merc bus na dinagdagan ni jems ng shit, but mostly calculations lang\Updated Merc Bus\Updated Merc Bus\obj\Debug\Updated_Merc_Bus.Log_in_form.resources
+C:\Users\Edward Salonga\Desktop\o\Updated_ merc bus na dinagdagan ni jems ng shit, but mostly calculations lang\Updated Merc Bus\Updated Merc Bus\obj\Debug\Updated_Merc_Bus.Resources.resources
+C:\Users\Edward Salonga\Desktop\o\Updated_ merc bus na dinagdagan ni jems ng shit, but mostly calculations lang\Updated Merc Bus\Updated Merc Bus\obj\Debug\Updated Merc Bus.vbproj.GenerateResource.cache
+C:\Users\Edward Salonga\Desktop\o\Updated_ merc bus na dinagdagan ni jems ng shit, but mostly calculations lang\Updated Merc Bus\Updated Merc Bus\obj\Debug\Updated Merc Bus.vbproj.CoreCompileInputs.cache
+C:\Users\Edward Salonga\Desktop\o\Updated_ merc bus na dinagdagan ni jems ng shit, but mostly calculations lang\Updated Merc Bus\Updated Merc Bus\obj\Debug\Updated Merc Bus.vbproj.CopyComplete
+C:\Users\Edward Salonga\Desktop\o\Updated_ merc bus na dinagdagan ni jems ng shit, but mostly calculations lang\Updated Merc Bus\Updated Merc Bus\obj\Debug\Updated Merc Bus.exe
+C:\Users\Edward Salonga\Desktop\o\Updated_ merc bus na dinagdagan ni jems ng shit, but mostly calculations lang\Updated Merc Bus\Updated Merc Bus\obj\Debug\Updated Merc Bus.xml
+C:\Users\Edward Salonga\Desktop\o\Updated_ merc bus na dinagdagan ni jems ng shit, but mostly calculations lang\Updated Merc Bus\Updated Merc Bus\obj\Debug\Updated Merc Bus.pdb
+C:\Users\SAMSUNG\Documents\Updated_ merc bus na dinagdagan ni jems ng shit, but mostly calculations lang\Updated Merc Bus\Updated Merc Bus\bin\Debug\Updated Merc Bus.exe.config
+C:\Users\SAMSUNG\Documents\Updated_ merc bus na dinagdagan ni jems ng shit, but mostly calculations lang\Updated Merc Bus\Updated Merc Bus\bin\Debug\Updated Merc Bus.exe
+C:\Users\SAMSUNG\Documents\Updated_ merc bus na dinagdagan ni jems ng shit, but mostly calculations lang\Updated Merc Bus\Updated Merc Bus\bin\Debug\Updated Merc Bus.pdb
+C:\Users\SAMSUNG\Documents\Updated_ merc bus na dinagdagan ni jems ng shit, but mostly calculations lang\Updated Merc Bus\Updated Merc Bus\bin\Debug\Updated Merc Bus.xml
+C:\Users\SAMSUNG\Documents\Updated_ merc bus na dinagdagan ni jems ng shit, but mostly calculations lang\Updated Merc Bus\Updated Merc Bus\bin\Debug\Bunifu_UI_v1.52.dll
+C:\Users\SAMSUNG\Documents\Updated_ merc bus na dinagdagan ni jems ng shit, but mostly calculations lang\Updated Merc Bus\Updated Merc Bus\obj\Debug\Updated Merc Bus.vbprojAssemblyReference.cache
+C:\Users\SAMSUNG\Documents\Updated_ merc bus na dinagdagan ni jems ng shit, but mostly calculations lang\Updated Merc Bus\Updated Merc Bus\obj\Debug\Updated_Merc_Bus.Form1.resources
+C:\Users\SAMSUNG\Documents\Updated_ merc bus na dinagdagan ni jems ng shit, but mostly calculations lang\Updated Merc Bus\Updated Merc Bus\obj\Debug\Updated_Merc_Bus.Log_in_form.resources
+C:\Users\SAMSUNG\Documents\Updated_ merc bus na dinagdagan ni jems ng shit, but mostly calculations lang\Updated Merc Bus\Updated Merc Bus\obj\Debug\Updated_Merc_Bus.Resources.resources
+C:\Users\SAMSUNG\Documents\Updated_ merc bus na dinagdagan ni jems ng shit, but mostly calculations lang\Updated Merc Bus\Updated Merc Bus\obj\Debug\Updated Merc Bus.vbproj.GenerateResource.cache
+C:\Users\SAMSUNG\Documents\Updated_ merc bus na dinagdagan ni jems ng shit, but mostly calculations lang\Updated Merc Bus\Updated Merc Bus\obj\Debug\Updated Merc Bus.vbproj.CoreCompileInputs.cache
+C:\Users\SAMSUNG\Documents\Updated_ merc bus na dinagdagan ni jems ng shit, but mostly calculations lang\Updated Merc Bus\Updated Merc Bus\obj\Debug\Updated Merc Bus.vbproj.CopyComplete
+C:\Users\SAMSUNG\Documents\Updated_ merc bus na dinagdagan ni jems ng shit, but mostly calculations lang\Updated Merc Bus\Updated Merc Bus\obj\Debug\Updated Merc Bus.exe
+C:\Users\SAMSUNG\Documents\Updated_ merc bus na dinagdagan ni jems ng shit, but mostly calculations lang\Updated Merc Bus\Updated Merc Bus\obj\Debug\Updated Merc Bus.xml
+C:\Users\SAMSUNG\Documents\Updated_ merc bus na dinagdagan ni jems ng shit, but mostly calculations lang\Updated Merc Bus\Updated Merc Bus\obj\Debug\Updated Merc Bus.pdb
+C:\Users\Edward Salonga\Desktop\chrueness\Updated_ merc bus na dinagdagan ni jems ng shit, but mostly calculations lang\Updated Merc Bus\Updated Merc Bus\bin\Debug\Updated Merc Bus.exe.config
+C:\Users\Edward Salonga\Desktop\chrueness\Updated_ merc bus na dinagdagan ni jems ng shit, but mostly calculations lang\Updated Merc Bus\Updated Merc Bus\bin\Debug\Updated Merc Bus.exe
+C:\Users\Edward Salonga\Desktop\chrueness\Updated_ merc bus na dinagdagan ni jems ng shit, but mostly calculations lang\Updated Merc Bus\Updated Merc Bus\bin\Debug\Updated Merc Bus.pdb
+C:\Users\Edward Salonga\Desktop\chrueness\Updated_ merc bus na dinagdagan ni jems ng shit, but mostly calculations lang\Updated Merc Bus\Updated Merc Bus\bin\Debug\Updated Merc Bus.xml
+C:\Users\Edward Salonga\Desktop\chrueness\Updated_ merc bus na dinagdagan ni jems ng shit, but mostly calculations lang\Updated Merc Bus\Updated Merc Bus\obj\Debug\Updated Merc Bus.vbprojAssemblyReference.cache
+C:\Users\Edward Salonga\Desktop\chrueness\Updated_ merc bus na dinagdagan ni jems ng shit, but mostly calculations lang\Updated Merc Bus\Updated Merc Bus\obj\Debug\Updated_Merc_Bus.Form1.resources
+C:\Users\Edward Salonga\Desktop\chrueness\Updated_ merc bus na dinagdagan ni jems ng shit, but mostly calculations lang\Updated Merc Bus\Updated Merc Bus\obj\Debug\Updated_Merc_Bus.Log_in_form.resources
+C:\Users\Edward Salonga\Desktop\chrueness\Updated_ merc bus na dinagdagan ni jems ng shit, but mostly calculations lang\Updated Merc Bus\Updated Merc Bus\obj\Debug\Updated_Merc_Bus.Resources.resources
+C:\Users\Edward Salonga\Desktop\chrueness\Updated_ merc bus na dinagdagan ni jems ng shit, but mostly calculations lang\Updated Merc Bus\Updated Merc Bus\obj\Debug\Updated Merc Bus.vbproj.GenerateResource.cache
+C:\Users\Edward Salonga\Desktop\chrueness\Updated_ merc bus na dinagdagan ni jems ng shit, but mostly calculations lang\Updated Merc Bus\Updated Merc Bus\obj\Debug\Updated Merc Bus.vbproj.CoreCompileInputs.cache
+C:\Users\Edward Salonga\Desktop\chrueness\Updated_ merc bus na dinagdagan ni jems ng shit, but mostly calculations lang\Updated Merc Bus\Updated Merc Bus\obj\Debug\Updated Merc Bus.vbproj.CopyComplete
+C:\Users\Edward Salonga\Desktop\chrueness\Updated_ merc bus na dinagdagan ni jems ng shit, but mostly calculations lang\Updated Merc Bus\Updated Merc Bus\obj\Debug\Updated Merc Bus.exe
+C:\Users\Edward Salonga\Desktop\chrueness\Updated_ merc bus na dinagdagan ni jems ng shit, but mostly calculations lang\Updated Merc Bus\Updated Merc Bus\obj\Debug\Updated Merc Bus.xml
+C:\Users\Edward Salonga\Desktop\chrueness\Updated_ merc bus na dinagdagan ni jems ng shit, but mostly calculations lang\Updated Merc Bus\Updated Merc Bus\obj\Debug\Updated Merc Bus.pdb
+C:\Users\SAMSUNG\Documents\New folder\Updated_ merc bus na dinagdagan ni jems ng shit, but mostly calculations lang\Updated Merc Bus\Updated Merc Bus\bin\Debug\Updated Merc Bus.exe.config
+C:\Users\SAMSUNG\Documents\New folder\Updated_ merc bus na dinagdagan ni jems ng shit, but mostly calculations lang\Updated Merc Bus\Updated Merc Bus\bin\Debug\Updated Merc Bus.exe
+C:\Users\SAMSUNG\Documents\New folder\Updated_ merc bus na dinagdagan ni jems ng shit, but mostly calculations lang\Updated Merc Bus\Updated Merc Bus\bin\Debug\Updated Merc Bus.pdb
+C:\Users\SAMSUNG\Documents\New folder\Updated_ merc bus na dinagdagan ni jems ng shit, but mostly calculations lang\Updated Merc Bus\Updated Merc Bus\bin\Debug\Updated Merc Bus.xml
+C:\Users\SAMSUNG\Documents\New folder\Updated_ merc bus na dinagdagan ni jems ng shit, but mostly calculations lang\Updated Merc Bus\Updated Merc Bus\obj\Debug\Updated Merc Bus.vbprojAssemblyReference.cache
+C:\Users\SAMSUNG\Documents\New folder\Updated_ merc bus na dinagdagan ni jems ng shit, but mostly calculations lang\Updated Merc Bus\Updated Merc Bus\obj\Debug\Updated_Merc_Bus.Form1.resources
+C:\Users\SAMSUNG\Documents\New folder\Updated_ merc bus na dinagdagan ni jems ng shit, but mostly calculations lang\Updated Merc Bus\Updated Merc Bus\obj\Debug\Updated_Merc_Bus.Log_in_form.resources
+C:\Users\SAMSUNG\Documents\New folder\Updated_ merc bus na dinagdagan ni jems ng shit, but mostly calculations lang\Updated Merc Bus\Updated Merc Bus\obj\Debug\Updated_Merc_Bus.Resources.resources
+C:\Users\SAMSUNG\Documents\New folder\Updated_ merc bus na dinagdagan ni jems ng shit, but mostly calculations lang\Updated Merc Bus\Updated Merc Bus\obj\Debug\Updated Merc Bus.vbproj.GenerateResource.cache
+C:\Users\SAMSUNG\Documents\New folder\Updated_ merc bus na dinagdagan ni jems ng shit, but mostly calculations lang\Updated Merc Bus\Updated Merc Bus\obj\Debug\Updated Merc Bus.vbproj.CoreCompileInputs.cache
+C:\Users\SAMSUNG\Documents\New folder\Updated_ merc bus na dinagdagan ni jems ng shit, but mostly calculations lang\Updated Merc Bus\Updated Merc Bus\obj\Debug\Updated Merc Bus.vbproj.CopyComplete
+C:\Users\SAMSUNG\Documents\New folder\Updated_ merc bus na dinagdagan ni jems ng shit, but mostly calculations lang\Updated Merc Bus\Updated Merc Bus\obj\Debug\Updated Merc Bus.exe
+C:\Users\SAMSUNG\Documents\New folder\Updated_ merc bus na dinagdagan ni jems ng shit, but mostly calculations lang\Updated Merc Bus\Updated Merc Bus\obj\Debug\Updated Merc Bus.xml
+C:\Users\SAMSUNG\Documents\New folder\Updated_ merc bus na dinagdagan ni jems ng shit, but mostly calculations lang\Updated Merc Bus\Updated Merc Bus\obj\Debug\Updated Merc Bus.pdb
+C:\Users\Edward Salonga\Desktop\MEOWKK\Updated_ merc bus na dinagdagan ni jems ng shit, but mostly calculations lang\Updated Merc Bus\Updated Merc Bus\bin\Debug\Updated Merc Bus.exe.config
+C:\Users\Edward Salonga\Desktop\MEOWKK\Updated_ merc bus na dinagdagan ni jems ng shit, but mostly calculations lang\Updated Merc Bus\Updated Merc Bus\bin\Debug\Updated Merc Bus.exe
+C:\Users\Edward Salonga\Desktop\MEOWKK\Updated_ merc bus na dinagdagan ni jems ng shit, but mostly calculations lang\Updated Merc Bus\Updated Merc Bus\bin\Debug\Updated Merc Bus.pdb
+C:\Users\Edward Salonga\Desktop\MEOWKK\Updated_ merc bus na dinagdagan ni jems ng shit, but mostly calculations lang\Updated Merc Bus\Updated Merc Bus\bin\Debug\Updated Merc Bus.xml
+C:\Users\Edward Salonga\Desktop\MEOWKK\Updated_ merc bus na dinagdagan ni jems ng shit, but mostly calculations lang\Updated Merc Bus\Updated Merc Bus\obj\Debug\Updated Merc Bus.vbprojAssemblyReference.cache
+C:\Users\Edward Salonga\Desktop\MEOWKK\Updated_ merc bus na dinagdagan ni jems ng shit, but mostly calculations lang\Updated Merc Bus\Updated Merc Bus\obj\Debug\Updated_Merc_Bus.Form1.resources
+C:\Users\Edward Salonga\Desktop\MEOWKK\Updated_ merc bus na dinagdagan ni jems ng shit, but mostly calculations lang\Updated Merc Bus\Updated Merc Bus\obj\Debug\Updated_Merc_Bus.Log_in_form.resources
+C:\Users\Edward Salonga\Desktop\MEOWKK\Updated_ merc bus na dinagdagan ni jems ng shit, but mostly calculations lang\Updated Merc Bus\Updated Merc Bus\obj\Debug\Updated_Merc_Bus.Resources.resources
+C:\Users\Edward Salonga\Desktop\MEOWKK\Updated_ merc bus na dinagdagan ni jems ng shit, but mostly calculations lang\Updated Merc Bus\Updated Merc Bus\obj\Debug\Updated Merc Bus.vbproj.GenerateResource.cache
+C:\Users\Edward Salonga\Desktop\MEOWKK\Updated_ merc bus na dinagdagan ni jems ng shit, but mostly calculations lang\Updated Merc Bus\Updated Merc Bus\obj\Debug\Updated Merc Bus.vbproj.CoreCompileInputs.cache
+C:\Users\Edward Salonga\Desktop\MEOWKK\Updated_ merc bus na dinagdagan ni jems ng shit, but mostly calculations lang\Updated Merc Bus\Updated Merc Bus\obj\Debug\Updated Merc Bus.vbproj.CopyComplete
+C:\Users\Edward Salonga\Desktop\MEOWKK\Updated_ merc bus na dinagdagan ni jems ng shit, but mostly calculations lang\Updated Merc Bus\Updated Merc Bus\obj\Debug\Updated Merc Bus.exe
+C:\Users\Edward Salonga\Desktop\MEOWKK\Updated_ merc bus na dinagdagan ni jems ng shit, but mostly calculations lang\Updated Merc Bus\Updated Merc Bus\obj\Debug\Updated Merc Bus.xml
+C:\Users\Edward Salonga\Desktop\MEOWKK\Updated_ merc bus na dinagdagan ni jems ng shit, but mostly calculations lang\Updated Merc Bus\Updated Merc Bus\obj\Debug\Updated Merc Bus.pdb
+C:\Users\SAMSUNG\Music\Updated_ merc bus na dinagdagan ni jems ng shit, but mostly calculations lang\Updated Merc Bus\Updated Merc Bus\bin\Debug\Updated Merc Bus.exe.config
+C:\Users\SAMSUNG\Music\Updated_ merc bus na dinagdagan ni jems ng shit, but mostly calculations lang\Updated Merc Bus\Updated Merc Bus\bin\Debug\Updated Merc Bus.exe
+C:\Users\SAMSUNG\Music\Updated_ merc bus na dinagdagan ni jems ng shit, but mostly calculations lang\Updated Merc Bus\Updated Merc Bus\bin\Debug\Updated Merc Bus.pdb
+C:\Users\SAMSUNG\Music\Updated_ merc bus na dinagdagan ni jems ng shit, but mostly calculations lang\Updated Merc Bus\Updated Merc Bus\bin\Debug\Updated Merc Bus.xml
+C:\Users\SAMSUNG\Music\Updated_ merc bus na dinagdagan ni jems ng shit, but mostly calculations lang\Updated Merc Bus\Updated Merc Bus\bin\Debug\Bunifu_UI_v1.52.dll
+C:\Users\SAMSUNG\Music\Updated_ merc bus na dinagdagan ni jems ng shit, but mostly calculations lang\Updated Merc Bus\Updated Merc Bus\obj\Debug\Updated Merc Bus.vbprojAssemblyReference.cache
+C:\Users\SAMSUNG\Music\Updated_ merc bus na dinagdagan ni jems ng shit, but mostly calculations lang\Updated Merc Bus\Updated Merc Bus\obj\Debug\Updated_Merc_Bus.Form1.resources
+C:\Users\SAMSUNG\Music\Updated_ merc bus na dinagdagan ni jems ng shit, but mostly calculations lang\Updated Merc Bus\Updated Merc Bus\obj\Debug\Updated_Merc_Bus.Log_in_form.resources
+C:\Users\SAMSUNG\Music\Updated_ merc bus na dinagdagan ni jems ng shit, but mostly calculations lang\Updated Merc Bus\Updated Merc Bus\obj\Debug\Updated_Merc_Bus.Resources.resources
+C:\Users\SAMSUNG\Music\Updated_ merc bus na dinagdagan ni jems ng shit, but mostly calculations lang\Updated Merc Bus\Updated Merc Bus\obj\Debug\Updated Merc Bus.vbproj.GenerateResource.cache
+C:\Users\SAMSUNG\Music\Updated_ merc bus na dinagdagan ni jems ng shit, but mostly calculations lang\Updated Merc Bus\Updated Merc Bus\obj\Debug\Updated Merc Bus.vbproj.CoreCompileInputs.cache
+C:\Users\SAMSUNG\Music\Updated_ merc bus na dinagdagan ni jems ng shit, but mostly calculations lang\Updated Merc Bus\Updated Merc Bus\obj\Debug\Updated Merc Bus.vbproj.CopyComplete
+C:\Users\SAMSUNG\Music\Updated_ merc bus na dinagdagan ni jems ng shit, but mostly calculations lang\Updated Merc Bus\Updated Merc Bus\obj\Debug\Updated Merc Bus.exe
+C:\Users\SAMSUNG\Music\Updated_ merc bus na dinagdagan ni jems ng shit, but mostly calculations lang\Updated Merc Bus\Updated Merc Bus\obj\Debug\Updated Merc Bus.xml
+C:\Users\SAMSUNG\Music\Updated_ merc bus na dinagdagan ni jems ng shit, but mostly calculations lang\Updated Merc Bus\Updated Merc Bus\obj\Debug\Updated Merc Bus.pdb
+C:\Users\Edward Salonga\Desktop\save your tears\Updated_ merc bus na dinagdagan ni jems ng shit, but mostly calculations lang\Updated Merc Bus\Updated Merc Bus\bin\Debug\Updated Merc Bus.exe.config
+C:\Users\Edward Salonga\Desktop\save your tears\Updated_ merc bus na dinagdagan ni jems ng shit, but mostly calculations lang\Updated Merc Bus\Updated Merc Bus\bin\Debug\Updated Merc Bus.exe
+C:\Users\Edward Salonga\Desktop\save your tears\Updated_ merc bus na dinagdagan ni jems ng shit, but mostly calculations lang\Updated Merc Bus\Updated Merc Bus\bin\Debug\Updated Merc Bus.pdb
+C:\Users\Edward Salonga\Desktop\save your tears\Updated_ merc bus na dinagdagan ni jems ng shit, but mostly calculations lang\Updated Merc Bus\Updated Merc Bus\bin\Debug\Updated Merc Bus.xml
+C:\Users\Edward Salonga\Desktop\save your tears\Updated_ merc bus na dinagdagan ni jems ng shit, but mostly calculations lang\Updated Merc Bus\Updated Merc Bus\obj\Debug\Updated Merc Bus.vbprojAssemblyReference.cache
+C:\Users\Edward Salonga\Desktop\save your tears\Updated_ merc bus na dinagdagan ni jems ng shit, but mostly calculations lang\Updated Merc Bus\Updated Merc Bus\obj\Debug\Updated_Merc_Bus.Form1.resources
+C:\Users\Edward Salonga\Desktop\save your tears\Updated_ merc bus na dinagdagan ni jems ng shit, but mostly calculations lang\Updated Merc Bus\Updated Merc Bus\obj\Debug\Updated_Merc_Bus.Log_in_form.resources
+C:\Users\Edward Salonga\Desktop\save your tears\Updated_ merc bus na dinagdagan ni jems ng shit, but mostly calculations lang\Updated Merc Bus\Updated Merc Bus\obj\Debug\Updated_Merc_Bus.Resources.resources
+C:\Users\Edward Salonga\Desktop\save your tears\Updated_ merc bus na dinagdagan ni jems ng shit, but mostly calculations lang\Updated Merc Bus\Updated Merc Bus\obj\Debug\Updated Merc Bus.vbproj.GenerateResource.cache
+C:\Users\Edward Salonga\Desktop\save your tears\Updated_ merc bus na dinagdagan ni jems ng shit, but mostly calculations lang\Updated Merc Bus\Updated Merc Bus\obj\Debug\Updated Merc Bus.vbproj.CoreCompileInputs.cache
+C:\Users\Edward Salonga\Desktop\save your tears\Updated_ merc bus na dinagdagan ni jems ng shit, but mostly calculations lang\Updated Merc Bus\Updated Merc Bus\obj\Debug\Updated Merc Bus.vbproj.CopyComplete
+C:\Users\Edward Salonga\Desktop\save your tears\Updated_ merc bus na dinagdagan ni jems ng shit, but mostly calculations lang\Updated Merc Bus\Updated Merc Bus\obj\Debug\Updated Merc Bus.exe
+C:\Users\Edward Salonga\Desktop\save your tears\Updated_ merc bus na dinagdagan ni jems ng shit, but mostly calculations lang\Updated Merc Bus\Updated Merc Bus\obj\Debug\Updated Merc Bus.xml
+C:\Users\Edward Salonga\Desktop\save your tears\Updated_ merc bus na dinagdagan ni jems ng shit, but mostly calculations lang\Updated Merc Bus\Updated Merc Bus\obj\Debug\Updated Merc Bus.pdb
+C:\Users\SAMSUNG\Downloads\jemmmmmmmmmmmmmmmmmmmmmm\Updated_ merc bus na dinagdagan ni jems ng shit, but mostly calculations lang\Updated Merc Bus\Updated Merc Bus\obj\Debug\Updated Merc Bus.vbprojAssemblyReference.cache
+C:\Users\SAMSUNG\Downloads\jemmmmmmmmmmmmmmmmmmmmmm\Updated_ merc bus na dinagdagan ni jems ng shit, but mostly calculations lang\Updated Merc Bus\Updated Merc Bus\obj\Debug\Updated_Merc_Bus.Form1.resources
+C:\Users\SAMSUNG\Downloads\jemmmmmmmmmmmmmmmmmmmmmm\Updated_ merc bus na dinagdagan ni jems ng shit, but mostly calculations lang\Updated Merc Bus\Updated Merc Bus\obj\Debug\Updated_Merc_Bus.Log_in_form.resources
+C:\Users\SAMSUNG\Downloads\jemmmmmmmmmmmmmmmmmmmmmm\Updated_ merc bus na dinagdagan ni jems ng shit, but mostly calculations lang\Updated Merc Bus\Updated Merc Bus\obj\Debug\Updated_Merc_Bus.Resources.resources
+C:\Users\SAMSUNG\Downloads\jemmmmmmmmmmmmmmmmmmmmmm\Updated_ merc bus na dinagdagan ni jems ng shit, but mostly calculations lang\Updated Merc Bus\Updated Merc Bus\obj\Debug\Updated Merc Bus.vbproj.GenerateResource.cache
+C:\Users\SAMSUNG\Downloads\jemmmmmmmmmmmmmmmmmmmmmm\Updated_ merc bus na dinagdagan ni jems ng shit, but mostly calculations lang\Updated Merc Bus\Updated Merc Bus\obj\Debug\Updated Merc Bus.vbproj.CoreCompileInputs.cache
+C:\Users\SAMSUNG\Downloads\jemmmmmmmmmmmmmmmmmmmmmm\Updated_ merc bus na dinagdagan ni jems ng shit, but mostly calculations lang\Updated Merc Bus\Updated Merc Bus\obj\Debug\Updated Merc Bus.exe
+C:\Users\SAMSUNG\Downloads\jemmmmmmmmmmmmmmmmmmmmmm\Updated_ merc bus na dinagdagan ni jems ng shit, but mostly calculations lang\Updated Merc Bus\Updated Merc Bus\obj\Debug\Updated Merc Bus.xml
+C:\Users\SAMSUNG\Downloads\jemmmmmmmmmmmmmmmmmmmmmm\Updated_ merc bus na dinagdagan ni jems ng shit, but mostly calculations lang\Updated Merc Bus\Updated Merc Bus\obj\Debug\Updated Merc Bus.pdb
+C:\Users\SAMSUNG\Downloads\jemmmmmmmmmmmmmmmmmmmmmm\Updated_ merc bus na dinagdagan ni jems ng shit, but mostly calculations lang\Updated Merc Bus\Updated Merc Bus\bin\Debug\Updated Merc Bus.exe.config
+C:\Users\SAMSUNG\Downloads\jemmmmmmmmmmmmmmmmmmmmmm\Updated_ merc bus na dinagdagan ni jems ng shit, but mostly calculations lang\Updated Merc Bus\Updated Merc Bus\bin\Debug\Updated Merc Bus.exe
+C:\Users\SAMSUNG\Downloads\jemmmmmmmmmmmmmmmmmmmmmm\Updated_ merc bus na dinagdagan ni jems ng shit, but mostly calculations lang\Updated Merc Bus\Updated Merc Bus\bin\Debug\Updated Merc Bus.pdb
+C:\Users\SAMSUNG\Downloads\jemmmmmmmmmmmmmmmmmmmmmm\Updated_ merc bus na dinagdagan ni jems ng shit, but mostly calculations lang\Updated Merc Bus\Updated Merc Bus\bin\Debug\Updated Merc Bus.xml
+C:\Users\SAMSUNG\Downloads\jemmmmmmmmmmmmmmmmmmmmmm\Updated_ merc bus na dinagdagan ni jems ng shit, but mostly calculations lang\Updated Merc Bus\Updated Merc Bus\obj\Debug\Updated Merc Bus.vbproj.CopyComplete
+C:\Users\Edward Salonga\Desktop\aight\jemmmmmmmmmmmmmmmmmmmmmm\Updated_ merc bus na dinagdagan ni jems ng shit, but mostly calculations lang\Updated Merc Bus\Updated Merc Bus\bin\Debug\Updated Merc Bus.exe.config
+C:\Users\Edward Salonga\Desktop\aight\jemmmmmmmmmmmmmmmmmmmmmm\Updated_ merc bus na dinagdagan ni jems ng shit, but mostly calculations lang\Updated Merc Bus\Updated Merc Bus\bin\Debug\Updated Merc Bus.exe
+C:\Users\Edward Salonga\Desktop\aight\jemmmmmmmmmmmmmmmmmmmmmm\Updated_ merc bus na dinagdagan ni jems ng shit, but mostly calculations lang\Updated Merc Bus\Updated Merc Bus\bin\Debug\Updated Merc Bus.pdb
+C:\Users\Edward Salonga\Desktop\aight\jemmmmmmmmmmmmmmmmmmmmmm\Updated_ merc bus na dinagdagan ni jems ng shit, but mostly calculations lang\Updated Merc Bus\Updated Merc Bus\bin\Debug\Updated Merc Bus.xml
+C:\Users\Edward Salonga\Desktop\aight\jemmmmmmmmmmmmmmmmmmmmmm\Updated_ merc bus na dinagdagan ni jems ng shit, but mostly calculations lang\Updated Merc Bus\Updated Merc Bus\obj\Debug\Updated Merc Bus.vbprojAssemblyReference.cache
+C:\Users\Edward Salonga\Desktop\aight\jemmmmmmmmmmmmmmmmmmmmmm\Updated_ merc bus na dinagdagan ni jems ng shit, but mostly calculations lang\Updated Merc Bus\Updated Merc Bus\obj\Debug\Updated_Merc_Bus.Form1.resources
+C:\Users\Edward Salonga\Desktop\aight\jemmmmmmmmmmmmmmmmmmmmmm\Updated_ merc bus na dinagdagan ni jems ng shit, but mostly calculations lang\Updated Merc Bus\Updated Merc Bus\obj\Debug\Updated_Merc_Bus.Log_in_form.resources
+C:\Users\Edward Salonga\Desktop\aight\jemmmmmmmmmmmmmmmmmmmmmm\Updated_ merc bus na dinagdagan ni jems ng shit, but mostly calculations lang\Updated Merc Bus\Updated Merc Bus\obj\Debug\Updated_Merc_Bus.Resources.resources
+C:\Users\Edward Salonga\Desktop\aight\jemmmmmmmmmmmmmmmmmmmmmm\Updated_ merc bus na dinagdagan ni jems ng shit, but mostly calculations lang\Updated Merc Bus\Updated Merc Bus\obj\Debug\Updated Merc Bus.vbproj.GenerateResource.cache
+C:\Users\Edward Salonga\Desktop\aight\jemmmmmmmmmmmmmmmmmmmmmm\Updated_ merc bus na dinagdagan ni jems ng shit, but mostly calculations lang\Updated Merc Bus\Updated Merc Bus\obj\Debug\Updated Merc Bus.vbproj.CoreCompileInputs.cache
+C:\Users\Edward Salonga\Desktop\aight\jemmmmmmmmmmmmmmmmmmmmmm\Updated_ merc bus na dinagdagan ni jems ng shit, but mostly calculations lang\Updated Merc Bus\Updated Merc Bus\obj\Debug\Updated Merc Bus.vbproj.CopyComplete
+C:\Users\Edward Salonga\Desktop\aight\jemmmmmmmmmmmmmmmmmmmmmm\Updated_ merc bus na dinagdagan ni jems ng shit, but mostly calculations lang\Updated Merc Bus\Updated Merc Bus\obj\Debug\Updated Merc Bus.exe
+C:\Users\Edward Salonga\Desktop\aight\jemmmmmmmmmmmmmmmmmmmmmm\Updated_ merc bus na dinagdagan ni jems ng shit, but mostly calculations lang\Updated Merc Bus\Updated Merc Bus\obj\Debug\Updated Merc Bus.xml
+C:\Users\Edward Salonga\Desktop\aight\jemmmmmmmmmmmmmmmmmmmmmm\Updated_ merc bus na dinagdagan ni jems ng shit, but mostly calculations lang\Updated Merc Bus\Updated Merc Bus\obj\Debug\Updated Merc Bus.pdb
+C:\Users\SAMSUNG\Documents\back up\Updated Merc Bus\Updated Merc Bus\bin\Debug\Updated Merc Bus.exe.config
+C:\Users\SAMSUNG\Documents\back up\Updated Merc Bus\Updated Merc Bus\bin\Debug\Updated Merc Bus.exe
+C:\Users\SAMSUNG\Documents\back up\Updated Merc Bus\Updated Merc Bus\bin\Debug\Updated Merc Bus.pdb
+C:\Users\SAMSUNG\Documents\back up\Updated Merc Bus\Updated Merc Bus\bin\Debug\Updated Merc Bus.xml
+C:\Users\SAMSUNG\Documents\back up\Updated Merc Bus\Updated Merc Bus\bin\Debug\Bunifu_UI_v1.52.dll
+C:\Users\SAMSUNG\Documents\back up\Updated Merc Bus\Updated Merc Bus\obj\Debug\Updated Merc Bus.vbprojAssemblyReference.cache
+C:\Users\SAMSUNG\Documents\back up\Updated Merc Bus\Updated Merc Bus\obj\Debug\Updated_Merc_Bus.Form1.resources
+C:\Users\SAMSUNG\Documents\back up\Updated Merc Bus\Updated Merc Bus\obj\Debug\Updated_Merc_Bus.Log_in_form.resources
+C:\Users\SAMSUNG\Documents\back up\Updated Merc Bus\Updated Merc Bus\obj\Debug\Updated_Merc_Bus.Resources.resources
+C:\Users\SAMSUNG\Documents\back up\Updated Merc Bus\Updated Merc Bus\obj\Debug\Updated Merc Bus.vbproj.GenerateResource.cache
+C:\Users\SAMSUNG\Documents\back up\Updated Merc Bus\Updated Merc Bus\obj\Debug\Updated Merc Bus.vbproj.CoreCompileInputs.cache
+C:\Users\SAMSUNG\Documents\back up\Updated Merc Bus\Updated Merc Bus\obj\Debug\Updated Merc Bus.vbproj.CopyComplete
+C:\Users\SAMSUNG\Documents\back up\Updated Merc Bus\Updated Merc Bus\obj\Debug\Updated Merc Bus.exe
+C:\Users\SAMSUNG\Documents\back up\Updated Merc Bus\Updated Merc Bus\obj\Debug\Updated Merc Bus.xml
+C:\Users\SAMSUNG\Documents\back up\Updated Merc Bus\Updated Merc Bus\obj\Debug\Updated Merc Bus.pdb
+C:\Users\Edward Salonga\Desktop\Latest ni Ej as of June 8 (5_53 PM)\back up\Updated Merc Bus\Updated Merc Bus\bin\Debug\Updated Merc Bus.exe.config
+C:\Users\Edward Salonga\Desktop\Latest ni Ej as of June 8 (5_53 PM)\back up\Updated Merc Bus\Updated Merc Bus\bin\Debug\Updated Merc Bus.exe
+C:\Users\Edward Salonga\Desktop\Latest ni Ej as of June 8 (5_53 PM)\back up\Updated Merc Bus\Updated Merc Bus\bin\Debug\Updated Merc Bus.pdb
+C:\Users\Edward Salonga\Desktop\Latest ni Ej as of June 8 (5_53 PM)\back up\Updated Merc Bus\Updated Merc Bus\bin\Debug\Updated Merc Bus.xml
+C:\Users\Edward Salonga\Desktop\Latest ni Ej as of June 8 (5_53 PM)\back up\Updated Merc Bus\Updated Merc Bus\obj\Debug\Updated Merc Bus.vbprojAssemblyReference.cache
+C:\Users\Edward Salonga\Desktop\Latest ni Ej as of June 8 (5_53 PM)\back up\Updated Merc Bus\Updated Merc Bus\obj\Debug\Updated_Merc_Bus.Form1.resources
+C:\Users\Edward Salonga\Desktop\Latest ni Ej as of June 8 (5_53 PM)\back up\Updated Merc Bus\Updated Merc Bus\obj\Debug\Updated_Merc_Bus.Log_in_form.resources
+C:\Users\Edward Salonga\Desktop\Latest ni Ej as of June 8 (5_53 PM)\back up\Updated Merc Bus\Updated Merc Bus\obj\Debug\Updated_Merc_Bus.Resources.resources
+C:\Users\Edward Salonga\Desktop\Latest ni Ej as of June 8 (5_53 PM)\back up\Updated Merc Bus\Updated Merc Bus\obj\Debug\Updated Merc Bus.vbproj.GenerateResource.cache
+C:\Users\Edward Salonga\Desktop\Latest ni Ej as of June 8 (5_53 PM)\back up\Updated Merc Bus\Updated Merc Bus\obj\Debug\Updated Merc Bus.vbproj.CoreCompileInputs.cache
+C:\Users\Edward Salonga\Desktop\Latest ni Ej as of June 8 (5_53 PM)\back up\Updated Merc Bus\Updated Merc Bus\obj\Debug\Updated Merc Bus.vbproj.CopyComplete
+C:\Users\Edward Salonga\Desktop\Latest ni Ej as of June 8 (5_53 PM)\back up\Updated Merc Bus\Updated Merc Bus\obj\Debug\Updated Merc Bus.exe
+C:\Users\Edward Salonga\Desktop\Latest ni Ej as of June 8 (5_53 PM)\back up\Updated Merc Bus\Updated Merc Bus\obj\Debug\Updated Merc Bus.xml
+C:\Users\Edward Salonga\Desktop\Latest ni Ej as of June 8 (5_53 PM)\back up\Updated Merc Bus\Updated Merc Bus\obj\Debug\Updated Merc Bus.pdb
+C:\Users\Tamie\Dropbox\My PC (LAPTOP-TB9TD51G)\Documents\Final product\back up\Updated Merc Bus\Updated Merc Bus\obj\Debug\Updated Merc Bus.vbproj.AssemblyReference.cache
+C:\Users\Tamie\Dropbox\My PC (LAPTOP-TB9TD51G)\Documents\Final product\back up\Updated Merc Bus\Updated Merc Bus\obj\Debug\Updated Merc Bus.exe
+C:\Users\Tamie\Dropbox\My PC (LAPTOP-TB9TD51G)\Documents\Final product\back up\Updated Merc Bus\Updated Merc Bus\obj\Debug\Updated Merc Bus.xml
+C:\Users\Tamie\Dropbox\My PC (LAPTOP-TB9TD51G)\Documents\Final product\back up\Updated Merc Bus\Updated Merc Bus\obj\Debug\Updated Merc Bus.pdb
+C:\Users\Tamie\Dropbox\My PC (LAPTOP-TB9TD51G)\Documents\Final product\back up\Updated Merc Bus\Updated Merc Bus\bin\Debug\Updated Merc Bus.exe.config
+C:\Users\Tamie\Dropbox\My PC (LAPTOP-TB9TD51G)\Documents\Final product\back up\Updated Merc Bus\Updated Merc Bus\bin\Debug\Updated Merc Bus.exe
+C:\Users\Tamie\Dropbox\My PC (LAPTOP-TB9TD51G)\Documents\Final product\back up\Updated Merc Bus\Updated Merc Bus\bin\Debug\Updated Merc Bus.pdb
+C:\Users\Tamie\Dropbox\My PC (LAPTOP-TB9TD51G)\Documents\Final product\back up\Updated Merc Bus\Updated Merc Bus\bin\Debug\Updated Merc Bus.xml
+C:\Users\Tamie\Dropbox\My PC (LAPTOP-TB9TD51G)\Documents\Final product\back up\Updated Merc Bus\Updated Merc Bus\obj\Debug\Updated_Merc_Bus.Form1.resources
+C:\Users\Tamie\Dropbox\My PC (LAPTOP-TB9TD51G)\Documents\Final product\back up\Updated Merc Bus\Updated Merc Bus\obj\Debug\Updated_Merc_Bus.Log_in_form.resources
+C:\Users\Tamie\Dropbox\My PC (LAPTOP-TB9TD51G)\Documents\Final product\back up\Updated Merc Bus\Updated Merc Bus\obj\Debug\Updated_Merc_Bus.Resources.resources
+C:\Users\Tamie\Dropbox\My PC (LAPTOP-TB9TD51G)\Documents\Final product\back up\Updated Merc Bus\Updated Merc Bus\obj\Debug\Updated Merc Bus.vbproj.GenerateResource.cache
+C:\Users\Tamie\Dropbox\My PC (LAPTOP-TB9TD51G)\Documents\Final product\back up\Updated Merc Bus\Updated Merc Bus\obj\Debug\Updated Merc Bus.vbproj.CoreCompileInputs.cache
+C:\Users\Tamie\Dropbox\My PC (LAPTOP-TB9TD51G)\Documents\Final product\back up\Updated Merc Bus\Updated Merc Bus\obj\Debug\Updated Merc Bus.vbproj.CopyComplete
+C:\Users\SAMSUNG\Desktop\k\Documents\Final product\back up\Updated Merc Bus\Updated Merc Bus\bin\Debug\Updated Merc Bus.exe.config
+C:\Users\SAMSUNG\Desktop\k\Documents\Final product\back up\Updated Merc Bus\Updated Merc Bus\bin\Debug\Updated Merc Bus.exe
+C:\Users\SAMSUNG\Desktop\k\Documents\Final product\back up\Updated Merc Bus\Updated Merc Bus\bin\Debug\Updated Merc Bus.pdb
+C:\Users\SAMSUNG\Desktop\k\Documents\Final product\back up\Updated Merc Bus\Updated Merc Bus\bin\Debug\Updated Merc Bus.xml
+C:\Users\SAMSUNG\Desktop\k\Documents\Final product\back up\Updated Merc Bus\Updated Merc Bus\obj\Debug\Updated Merc Bus.vbprojAssemblyReference.cache
+C:\Users\SAMSUNG\Desktop\k\Documents\Final product\back up\Updated Merc Bus\Updated Merc Bus\obj\Debug\Updated_Merc_Bus.Form1.resources
+C:\Users\SAMSUNG\Desktop\k\Documents\Final product\back up\Updated Merc Bus\Updated Merc Bus\obj\Debug\Updated_Merc_Bus.Resources.resources
+C:\Users\SAMSUNG\Desktop\k\Documents\Final product\back up\Updated Merc Bus\Updated Merc Bus\obj\Debug\Updated Merc Bus.vbproj.GenerateResource.cache
+C:\Users\SAMSUNG\Desktop\k\Documents\Final product\back up\Updated Merc Bus\Updated Merc Bus\obj\Debug\Updated Merc Bus.vbproj.CoreCompileInputs.cache
+C:\Users\SAMSUNG\Desktop\k\Documents\Final product\back up\Updated Merc Bus\Updated Merc Bus\obj\Debug\Updated Merc Bus.vbproj.CopyComplete
+C:\Users\SAMSUNG\Desktop\k\Documents\Final product\back up\Updated Merc Bus\Updated Merc Bus\obj\Debug\Updated Merc Bus.exe
+C:\Users\SAMSUNG\Desktop\k\Documents\Final product\back up\Updated Merc Bus\Updated Merc Bus\obj\Debug\Updated Merc Bus.xml
+C:\Users\SAMSUNG\Desktop\k\Documents\Final product\back up\Updated Merc Bus\Updated Merc Bus\obj\Debug\Updated Merc Bus.pdb
+C:\Users\SAMSUNG\Desktop\Group 6 Merc Bus Ticketing Serivce Final Project\Updated Merc Bus\Updated Merc Bus\bin\Debug\Updated Merc Bus.exe.config
+C:\Users\SAMSUNG\Desktop\Group 6 Merc Bus Ticketing Serivce Final Project\Updated Merc Bus\Updated Merc Bus\bin\Debug\Updated Merc Bus.exe
+C:\Users\SAMSUNG\Desktop\Group 6 Merc Bus Ticketing Serivce Final Project\Updated Merc Bus\Updated Merc Bus\bin\Debug\Updated Merc Bus.pdb
+C:\Users\SAMSUNG\Desktop\Group 6 Merc Bus Ticketing Serivce Final Project\Updated Merc Bus\Updated Merc Bus\bin\Debug\Updated Merc Bus.xml
+C:\Users\SAMSUNG\Desktop\Group 6 Merc Bus Ticketing Serivce Final Project\Updated Merc Bus\Updated Merc Bus\bin\Debug\Bunifu_UI_v1.52.dll
+C:\Users\SAMSUNG\Desktop\Group 6 Merc Bus Ticketing Serivce Final Project\Updated Merc Bus\Updated Merc Bus\obj\Debug\Updated Merc Bus.vbprojAssemblyReference.cache
+C:\Users\SAMSUNG\Desktop\Group 6 Merc Bus Ticketing Serivce Final Project\Updated Merc Bus\Updated Merc Bus\obj\Debug\Updated_Merc_Bus.Form1.resources
+C:\Users\SAMSUNG\Desktop\Group 6 Merc Bus Ticketing Serivce Final Project\Updated Merc Bus\Updated Merc Bus\obj\Debug\Updated_Merc_Bus.Resources.resources
+C:\Users\SAMSUNG\Desktop\Group 6 Merc Bus Ticketing Serivce Final Project\Updated Merc Bus\Updated Merc Bus\obj\Debug\Updated Merc Bus.vbproj.GenerateResource.cache
+C:\Users\SAMSUNG\Desktop\Group 6 Merc Bus Ticketing Serivce Final Project\Updated Merc Bus\Updated Merc Bus\obj\Debug\Updated Merc Bus.vbproj.CoreCompileInputs.cache
+C:\Users\SAMSUNG\Desktop\Group 6 Merc Bus Ticketing Serivce Final Project\Updated Merc Bus\Updated Merc Bus\obj\Debug\Updated Merc Bus.vbproj.CopyComplete
+C:\Users\SAMSUNG\Desktop\Group 6 Merc Bus Ticketing Serivce Final Project\Updated Merc Bus\Updated Merc Bus\obj\Debug\Updated Merc Bus.exe
+C:\Users\SAMSUNG\Desktop\Group 6 Merc Bus Ticketing Serivce Final Project\Updated Merc Bus\Updated Merc Bus\obj\Debug\Updated Merc Bus.xml
+C:\Users\SAMSUNG\Desktop\Group 6 Merc Bus Ticketing Serivce Final Project\Updated Merc Bus\Updated Merc Bus\obj\Debug\Updated Merc Bus.pdb
+C:\Users\Tamie\Dropbox\My PC (LAPTOP-TB9TD51G)\Videos\Group 6 Merc Bus Ticketing Serivce Final Project\Updated Merc Bus\Updated Merc Bus\obj\Debug\Updated Merc Bus.vbproj.AssemblyReference.cache
+C:\Users\Tamie\Dropbox\My PC (LAPTOP-TB9TD51G)\Videos\Group 6 Merc Bus Ticketing Serivce Final Project\Updated Merc Bus\Updated Merc Bus\obj\Debug\Updated Merc Bus.exe
+C:\Users\Tamie\Dropbox\My PC (LAPTOP-TB9TD51G)\Videos\Group 6 Merc Bus Ticketing Serivce Final Project\Updated Merc Bus\Updated Merc Bus\obj\Debug\Updated Merc Bus.xml
+C:\Users\Tamie\Dropbox\My PC (LAPTOP-TB9TD51G)\Videos\Group 6 Merc Bus Ticketing Serivce Final Project\Updated Merc Bus\Updated Merc Bus\obj\Debug\Updated Merc Bus.pdb
+C:\Users\Tamie\Dropbox\My PC (LAPTOP-TB9TD51G)\Videos\Group 6 Merc Bus Ticketing Serivce Final Project\Updated Merc Bus\Updated Merc Bus\bin\Debug\Updated Merc Bus.exe.config
+C:\Users\Tamie\Dropbox\My PC (LAPTOP-TB9TD51G)\Videos\Group 6 Merc Bus Ticketing Serivce Final Project\Updated Merc Bus\Updated Merc Bus\bin\Debug\Updated Merc Bus.exe
+C:\Users\Tamie\Dropbox\My PC (LAPTOP-TB9TD51G)\Videos\Group 6 Merc Bus Ticketing Serivce Final Project\Updated Merc Bus\Updated Merc Bus\bin\Debug\Updated Merc Bus.pdb
+C:\Users\Tamie\Dropbox\My PC (LAPTOP-TB9TD51G)\Videos\Group 6 Merc Bus Ticketing Serivce Final Project\Updated Merc Bus\Updated Merc Bus\bin\Debug\Updated Merc Bus.xml
+C:\Users\Tamie\Dropbox\My PC (LAPTOP-TB9TD51G)\Videos\Group 6 Merc Bus Ticketing Serivce Final Project\Updated Merc Bus\Updated Merc Bus\obj\Debug\Updated_Merc_Bus.Form1.resources
+C:\Users\Tamie\Dropbox\My PC (LAPTOP-TB9TD51G)\Videos\Group 6 Merc Bus Ticketing Serivce Final Project\Updated Merc Bus\Updated Merc Bus\obj\Debug\Updated_Merc_Bus.Resources.resources
+C:\Users\Tamie\Dropbox\My PC (LAPTOP-TB9TD51G)\Videos\Group 6 Merc Bus Ticketing Serivce Final Project\Updated Merc Bus\Updated Merc Bus\obj\Debug\Updated Merc Bus.vbproj.GenerateResource.cache
+C:\Users\Tamie\Dropbox\My PC (LAPTOP-TB9TD51G)\Videos\Group 6 Merc Bus Ticketing Serivce Final Project\Updated Merc Bus\Updated Merc Bus\obj\Debug\Updated Merc Bus.vbproj.CoreCompileInputs.cache
+C:\Users\Tamie\Dropbox\My PC (LAPTOP-TB9TD51G)\Videos\Group 6 Merc Bus Ticketing Serivce Final Project\Updated Merc Bus\Updated Merc Bus\obj\Debug\Updated Merc Bus.vbproj.CopyComplete
+C:\Users\SAMSUNG\Videos\Group 6 Merc Bus Ticketing Serivce Final Project\Updated Merc Bus\Updated Merc Bus\bin\Debug\Updated Merc Bus.exe.config
+C:\Users\SAMSUNG\Videos\Group 6 Merc Bus Ticketing Serivce Final Project\Updated Merc Bus\Updated Merc Bus\bin\Debug\Updated Merc Bus.exe
+C:\Users\SAMSUNG\Videos\Group 6 Merc Bus Ticketing Serivce Final Project\Updated Merc Bus\Updated Merc Bus\bin\Debug\Updated Merc Bus.pdb
+C:\Users\SAMSUNG\Videos\Group 6 Merc Bus Ticketing Serivce Final Project\Updated Merc Bus\Updated Merc Bus\bin\Debug\Updated Merc Bus.xml
+C:\Users\SAMSUNG\Videos\Group 6 Merc Bus Ticketing Serivce Final Project\Updated Merc Bus\Updated Merc Bus\bin\Debug\Bunifu_UI_v1.52.dll
+C:\Users\SAMSUNG\Videos\Group 6 Merc Bus Ticketing Serivce Final Project\Updated Merc Bus\Updated Merc Bus\obj\Debug\Updated Merc Bus.vbprojAssemblyReference.cache
+C:\Users\SAMSUNG\Videos\Group 6 Merc Bus Ticketing Serivce Final Project\Updated Merc Bus\Updated Merc Bus\obj\Debug\Updated_Merc_Bus.Form1.resources
+C:\Users\SAMSUNG\Videos\Group 6 Merc Bus Ticketing Serivce Final Project\Updated Merc Bus\Updated Merc Bus\obj\Debug\Updated_Merc_Bus.Resources.resources
+C:\Users\SAMSUNG\Videos\Group 6 Merc Bus Ticketing Serivce Final Project\Updated Merc Bus\Updated Merc Bus\obj\Debug\Updated Merc Bus.vbproj.GenerateResource.cache
+C:\Users\SAMSUNG\Videos\Group 6 Merc Bus Ticketing Serivce Final Project\Updated Merc Bus\Updated Merc Bus\obj\Debug\Updated Merc Bus.vbproj.CoreCompileInputs.cache
+C:\Users\SAMSUNG\Videos\Group 6 Merc Bus Ticketing Serivce Final Project\Updated Merc Bus\Updated Merc Bus\obj\Debug\Updated Merc Bus.vbproj.CopyComplete
+C:\Users\SAMSUNG\Videos\Group 6 Merc Bus Ticketing Serivce Final Project\Updated Merc Bus\Updated Merc Bus\obj\Debug\Updated Merc Bus.exe
+C:\Users\SAMSUNG\Videos\Group 6 Merc Bus Ticketing Serivce Final Project\Updated Merc Bus\Updated Merc Bus\obj\Debug\Updated Merc Bus.xml
+C:\Users\SAMSUNG\Videos\Group 6 Merc Bus Ticketing Serivce Final Project\Updated Merc Bus\Updated Merc Bus\obj\Debug\Updated Merc Bus.pdb

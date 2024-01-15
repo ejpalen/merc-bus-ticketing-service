@@ -1,0 +1,516 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{D19EDB8E-04AA-4322-88C0-739E344119D9}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <StartupObject>Updated_Merc_Bus.My.MyApplication</StartupObject>
+    <RootNamespace>Updated_Merc_Bus</RootNamespace>
+    <AssemblyName>Updated Merc Bus</AssemblyName>
+    <FileAlignment>512</FileAlignment>
+    <MyType>WindowsForms</MyType>
+    <TargetFrameworkVersion>v4.6.1</TargetFrameworkVersion>
+    <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
+    <Deterministic>true</Deterministic>
+    <TargetFrameworkProfile />
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <DefineDebug>true</DefineDebug>
+    <DefineTrace>true</DefineTrace>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DocumentationFile>Updated Merc Bus.xml</DocumentationFile>
+    <NoWarn>42016,41999,42017,42018,42019,42032,42036,42020,42021,42022</NoWarn>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <DefineDebug>false</DefineDebug>
+    <DefineTrace>true</DefineTrace>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DocumentationFile>Updated Merc Bus.xml</DocumentationFile>
+    <NoWarn>42016,41999,42017,42018,42019,42032,42036,42020,42021,42022</NoWarn>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionExplicit>On</OptionExplicit>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionCompare>Binary</OptionCompare>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionStrict>Off</OptionStrict>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionInfer>On</OptionInfer>
+  </PropertyGroup>
+  <PropertyGroup>
+    <ApplicationManifest>My Project\app.manifest</ApplicationManifest>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="Bunifu_UI_v1.52">
+      <HintPath>..\..\..\..\Downloads\Bunifu_UI_v1.52.dll</HintPath>
+    </Reference>
+    <Reference Include="System" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Management" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="System.Net.Http" />
+  </ItemGroup>
+  <ItemGroup>
+    <Import Include="Microsoft.VisualBasic" />
+    <Import Include="System" />
+    <Import Include="System.Collections" />
+    <Import Include="System.Collections.Generic" />
+    <Import Include="System.Data" />
+    <Import Include="System.Drawing" />
+    <Import Include="System.Diagnostics" />
+    <Import Include="System.Windows.Forms" />
+    <Import Include="System.Linq" />
+    <Import Include="System.Xml.Linq" />
+    <Import Include="System.Threading.Tasks" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Form1.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form1.Designer.vb">
+      <DependentUpon>Form1.vb</DependentUpon>
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="My Project\AssemblyInfo.vb" />
+    <Compile Include="My Project\Application.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Application.myapp</DependentUpon>
+    </Compile>
+    <Compile Include="My Project\Resources.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <Compile Include="My Project\Settings.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <EmbeddedResource Include="Form1.resx">
+      <DependentUpon>Form1.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="My Project\Resources.resx">
+      <Generator>VbMyResourcesResXFileCodeGenerator</Generator>
+      <CustomToolNamespace>My.Resources</CustomToolNamespace>
+      <SubType>Designer</SubType>
+      <LastGenOutput>Resources.Designer.vb</LastGenOutput>
+    </EmbeddedResource>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="My Project\app.manifest" />
+    <None Include="My Project\Application.myapp">
+      <Generator>MyApplicationCodeGenerator</Generator>
+      <LastGenOutput>Application.Designer.vb</LastGenOutput>
+    </None>
+    <None Include="My Project\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <CustomToolNamespace>My</CustomToolNamespace>
+      <LastGenOutput>Settings.Designer.vb</LastGenOutput>
+    </None>
+    <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\homeicon.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\output-onlinepngtools.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\output-onlinepngtools %281%29.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\output-onlinepngtools %282%29.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\abouticon1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\BUS.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\b1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\b2.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\b3.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\text.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\orangehome.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\orangeticket.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\orangeabout.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\image.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\nextarrowicon.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\orangearrowicon.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\red ticket.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\blue ticket.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\blue home.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\blue about.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\bluearrow.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\whitedownarrow.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\bluedownarrow.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\changeicon.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\output-onlinepngtools %284%29.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\download__1_-removebg-preview %281%29.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\output-onlinepngtools %285%29.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\output-onlinepngtools1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\blueservice.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\whiteservice.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\whitecustomer.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\whiteservicec.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\abouticon11.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\output-onlinepngtools %285%291.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\output-onlinepngtools %286%29.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\output-onlinepngtools %287%29.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\output-onlinepngtools %288%29.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\blue about1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\output-onlinepngtools %2810%29.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\output-onlinepngtools %2813%29.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\output-onlinepngtools %2814%29.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\output-onlinepngtools %2815%29.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\output-onlinepngtools %2816%29.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\output-onlinepngtools %2816%291.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\output-onlinepngtools %2813%291.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\nextarrowicon1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\bluedownarrow1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\whiteuparrow.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\uparrow.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\ordinary.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\ordinary1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\ordinary2.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\ordinary.3png.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\vvdv.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\blueleftarrow.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\uparrow1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\classa.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\classb.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\classb1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\classc.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\classa1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\classa3.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\classc1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\whiteprofile.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\blueprofile.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\6793684604_520e013278_o.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Untitled design.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\as.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\profileicon.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\password.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\output-onlinepngtools %2820%29.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\lock.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\piclogin.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\orangearrowdown.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\orangearrowup.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\merclabellogo.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\buslogo.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\whitebuslogo.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\heading1.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\below1.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\below11.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\newbtnaboutwhite.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\newbtnaboutwhite1.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\newbtnaboutwhite2.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\newbtnaboutblue.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\newarrowdownmenu.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\newarrowdownmenublue.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\newarrowupmenublue.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\orangearrowup %281%29 %281%29.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\orangearrowup %281%29 %281%291.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\orangearrowup %281%29 %283%29.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\orangearrowup %281%29 %281%292.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\orangearrowup %281%29 %282%29.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\orangearrowup %281%29 %284%29.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\orangedown.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\orangeup.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\updatedorangedown-removebg-preview %282%29.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\dsd.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\printicon.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\retry.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\exiticon.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\newordinary.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\newclassa.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\newclassb.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\classc.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\totalbreakdownd.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\newtotalbreakdownd.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\latestbreakdown.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\btnnextpassenger.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\newprint.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\newretry.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\newretry1.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\newexit.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\graymenu.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\grayabout.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\graydown.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\graydown1.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\graydown2.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\grayhome.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\newgrayabout.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\pricetable.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Slide1.JPG" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\pricetable1.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\pricetable2.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\newr1.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\newr2.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\newr11.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\newr12.jpg" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.VisualBasic.targets" />
+</Project>
